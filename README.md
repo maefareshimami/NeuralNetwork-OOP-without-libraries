@@ -5,5 +5,6 @@
 I trained a neural network to represent the sinus function. You can modify it for anything.
 
 ### Protocol
-Choose your parameters in the file 'constants.py'
+Choose your parameters in the file *constants.py*.
+Adapt the file *dataset_building.py*.
 Put all files in a same folder and write `python main.py` in your terminal.
